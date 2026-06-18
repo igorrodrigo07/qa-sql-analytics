@@ -1,0 +1,14 @@
+
+===== SQL ANALYTICS QA =====
+
+Bugs por Sprint:
+[('Sprint 1', 4), ('Sprint 2', 4), ('Sprint 3', 4), ('Sprint 4', 4), ('Sprint 5', 4)]
+
+Bugs por Severidade:
+[('Baixa', 6), ('Alta', 6), ('Média', 5), ('Crítica', 3)]
+
+Módulos com mais defeitos:
+[('Perfil', 5), ('Login', 5), ('Checkout', 5), ('Carrinho', 5)]
+
+Taxa de Resolução:
+75.0%
